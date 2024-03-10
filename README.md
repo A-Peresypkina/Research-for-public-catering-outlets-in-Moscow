@@ -6,4 +6,5 @@ Stages:
 1) data loading, EDA
 2) study of correlation
 3) conclusions
+
 Stack: pandas, numpy, seaborn, matplotlib, plotly, folium
